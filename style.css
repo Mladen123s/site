@@ -341,4 +341,28 @@ nav {
   #p {
     font-size: 18px;
     width: 350px;
+  }
+}
+
+@media screen and (max-width: 474px) {
+  #logo {
+    width: 164px;
+    height: 84px;
+  }
+
+  #img-2 {
+    width: 260px;
+    height: 464px;
+  }
+  #h1 {
+    font-size: 27px;
+  }
+  #p {
+    font-size: 13.5px;
+    width: 250px;
+  }
+  #img {
+    width: 346px;
+    height: 546px;
+  }
 }
